@@ -506,7 +506,9 @@ git push origin feature/new-feature
 
 ## License
 
-This project is developed for educational purposes as part of the AAIDC Module 2 certification program.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+This project was developed as part of the AAIDC Module 2 certification program.
 
 ## Acknowledgments
 
